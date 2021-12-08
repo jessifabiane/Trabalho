@@ -1,0 +1,1 @@
+Olá turma! Vamos ver alguns comandos do Git.
